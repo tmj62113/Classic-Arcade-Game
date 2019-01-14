@@ -3,11 +3,6 @@
 ___
 This is a Udacity Front-end Nanodegree project, part of my Google Scholarship. The idea is to recreate a simple clone of the classic Frogger arcade game.
 
-# Run the application
-
-Open [Link](https://github.com/tmj62113/Classic-Arcade-Game) to run online
-
-<img src="/images/ArcadeGameScreenShot.png">
 
 ## Installation
 
